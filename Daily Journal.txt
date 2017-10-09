@@ -20,7 +20,22 @@ Added new form and coded button functionality
 ***Designed the Government services, maps, help, and Search form -- Shanine
 ***Coded keyboard function -- Shanine
 Explored faults and redundancy in design and found solutions to resolve the found faults
-Created database to test in phpMyAdmin
 
+
+10/6/2017
+Translated and created Tagalog versions of each Module --Fahad
+Created and coded the language selection button which allows the user to select between languages -- Fahad
+Finished developing the 2nd floor and started on the 3rd floor development -- Marvin
+Developed the directional animation for the map -- Gil
+Tested the animation on the map module of the application
+
+
+10/9/2017
+Developed the job form today, updated language form, and search form -- Shanine
+Coded the on screen keyboard --Fahad, Shanine, Gil
+Developed the 3rd floor map --Marvin
+Started coding development of the coneptualized map -- Fahad
+Presented current progress of static model to project manager
+Conceptualized how the map will be developed & proposed to the project manager
 
   
