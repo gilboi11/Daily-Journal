@@ -1,0 +1,26 @@
+10/2/2017
+
+Created and defined the flow of the proposed Kiosk project
+Presented the design plan/storyboard to project manager & project head
+Designed approved 
+Created project plan through gantt chart
+Start of the the project beginning with prototype -- static designed
+***Established project onto GitHub, connected team members to project -- Fahad
+
+10/3/2017
+
+Edited design of the Kiosk project
+Added new form and coded button functionality 
+***Created forms Government services, maps, help --Shanine
+***floor plan binan -- Marvin
+
+10/4/2017
+
+***Added code functionality to remaining buttons to connect forms --Gil
+***Designed the Government services, maps, help, and Search form -- Shanine
+***Coded keyboard function -- Shanine
+Explored faults and redundancy in design and found solutions to resolve the found faults
+Created database to test in phpMyAdmin
+
+
+  
