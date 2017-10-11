@@ -31,11 +31,34 @@ Tested the animation on the map module of the application
 
 
 10/9/2017
-Developed the job form today, updated language form, and search form -- Shanine
-Coded the on screen keyboard --Fahad, Shanine, Gil
-Developed the 3rd floor map --Marvin
-Started coding development of the coneptualized map -- Fahad
+Developed the job form today, updated language form, refined the language on all other forms, redisgned search form,
+began designing results form  -- Shanine
+Codedand tested the on screen keyboard in the search form on various laptops --Fahad, Shanine, Gil
+Began Development of the 3rd floor map --Marvin
+Designed sample map with direction animation, created clickable map -- Gil
+Refined Gil's animation map, refined the coding of the coneptualized map -- Fahad
 Presented current progress of static model to project manager
-Conceptualized how the map will be developed & proposed to the project manager
+Listed and recorded project Managers suggestions: improve map, use other methods
+Started the development of the map module using different approaches that would:
+1. Have the most optimum efficiency 
+2. Look most visually appealing
+3. Did not disrupt flow of program
+Returned to conceptualization after reviewing suggestions from project manager
+Fahad suggested using control boxes/picture boxes and positioning them in maps where they would be most efficient in displaying directions
+Marvin suggested the arrows should shift each with its own value
+Gil suggested putting a number value in the rooms where it would be read and also in the control boxes--Djikstra's method shortest path available
+Finalized concept and readied to present to project manager
+
+10/10/2017
+Completed result forms for the officer results from the search function and job advertisement form and created dummy data--Shanine
+Completed the remaing floors on visio --Marvin
+Refined code on search function -- Gil
+Tested current progress of program: 1 Bug found in map form
+
+10/11/2017
+Created and coded working Grid map of the binan city floorplans, for two rooms
+assisted in coding the search functionality--Fahad
+Designed and completed offices form --Shanine
+Coded search functionality, radiobutton functions, --Gil
 
   
