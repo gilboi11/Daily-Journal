@@ -53,12 +53,13 @@ Finalized concept and readied to present to project manager
 Completed result forms for the officer results from the search function and job advertisement form and created dummy data--Shanine
 Completed the remaing floors on visio --Marvin
 Refined code on search function -- Gil
-Tested current progress of program: 1 Bug found in map form
+Tested current progress of program
 
 10/11/2017
-Created and coded working Grid map of the binan city floorplans, for two rooms
-assisted in coding the search functionality--Fahad
-Designed and completed offices form --Shanine
+Created and coded working Grid map of the binan city floorplans, modified and changed directional images to Shanine's design
+assisted in coding the search functionality, repaired loading code in search functionality
+--Fahad
+Designed and completed offices form, created and designed directional imaging --Shanine
 Coded search functionality, radiobutton functions, --Gil
 
   
