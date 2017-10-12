@@ -62,4 +62,9 @@ assisted in coding the search functionality, repaired loading code in search fun
 Designed and completed offices form, created and designed directional imaging --Shanine
 Coded search functionality, radiobutton functions, --Gil
 
+10/12/2017
+Designed the office results form and the kiosk "you are here" icon, redesigned map to be larger, started color coding the maps -- Shanine
+Added the officresults to the search form code, connected the buttons to the new forms and also re-edited the code of the other forms to
+go to corresponding forms -- Gil
+Tested map functionality of the map module, utilized different codes in also making the map dynamic -- Marvin 
   
