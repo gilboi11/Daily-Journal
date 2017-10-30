@@ -67,4 +67,36 @@ Designed the office results form and the kiosk "you are here" icon, redesigned m
 Added the officresults to the search form code, connected the buttons to the new forms and also re-edited the code of the other forms to
 go to corresponding forms -- Gil
 Tested map functionality of the map module, utilized different codes in also making the map dynamic -- Marvin 
+
+10/19/2017
+Continued modifying the map module and testing each room/ each route, researched solution to map's inability to continue to another floorplan --Marvin
+
+10/20/2017
+Conntinued modifyin the search module and testing its functionality --Gil
+Corrected the problem of the map's inability to continue to the next floor when the directions are generated --Fahad
+Continued modifying the map module and testing each room/ each route --Marvin
+
+10/23/2017
+
+
+
+
+10/24/2017
+Continued in the adjustment of each floor's dimensions to properly fit the application and continued color coding the floor to the map module -- Shanine
+Collected data of the staff, organized into tables and normalized the database --Gil
+Continued modifying the map module and testing each room/ each route -- Fahad
+Completed connecting the remaing floors to the map module -- Marvin
+
+
+10/25/17
+Finished adjusting the dimensions of the map to display on the application and completed color coding remaining floors for the map module --Shanine
+Created the database using mysql and connected the tables within the database -- Fahad
+Assisted in creating the database using mysql, modified the database -- Gil
+
+
+10/26/17
+Developed result forms for each filtered query (officers, elected officials, --Shanine
+Continued editing and modifying the database from the day prior, researched on centralizing the database --Gil
+researched on centralizing the database, modified the navigational "dots" on the map module --Marvin
+
   
