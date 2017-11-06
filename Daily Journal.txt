@@ -99,4 +99,21 @@ Developed result forms for each filtered query (officers, elected officials, --S
 Continued editing and modifying the database from the day prior, researched on centralizing the database --Gil
 researched on centralizing the database, modified the navigational "dots" on the map module --Marvin
 
+
+10/30/17
+Started developing the admin module, redesigned the kiosk modules -- Shanine
+
+
+11/3/2017
+Analyzed the database and organized the information needed for the binan kiosk -- Gil
+Analyzed the database and organized the information needed for the binan kiosk -- Marvin
+Modified and redesigned the search module, analyzed the database -- Fahad
+
+11/6/2017
+Modified and redesigned the login module interface and search module interface --Shanine
+Created a new database and tables with the reorganized databaase on mysql, worked on the search module --Fahad
+Modified the database and worked on the search module -- Marvin
+
+
+
   
