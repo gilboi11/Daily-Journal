@@ -114,6 +114,27 @@ Modified and redesigned the login module interface and search module interface -
 Created a new database and tables with the reorganized databaase on mysql, worked on the search module --Fahad
 Modified the database and worked on the search module -- Marvin
 
+11/8/2017
+
+11/9/2017
+Continued coding the search function, attempted to do an zoom function to the map module, analyzed the citizen's charter--Gil
+continued coding the search function and the auto results --Marvin
+Redesigned the main page, coded a slider with pictures, added an effects transition between modules -- Shanine
+Modified the search function -- Ms. fahad
+
+11/10/2017
+Coded the suggestions to appear in the search module-- Fahad
+
+11/15/2017
+Coded the government services module --Gil
+Added the offices to search module -- Fahad
+Started redesigning the government service module -- Shanine
+
+11/17/2017
+Coded the job search module, created job search database -- Fahad
 
 
-  
+11/20/2017
+Redesigned home login page, removed flickering affect on form load, finished redesigning government service interface -- Shanine
+Continued working on the job search module -- Fahad
+Presented project to project manager (Sir Patrick) & Evaluated  
