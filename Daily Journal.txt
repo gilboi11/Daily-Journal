@@ -135,6 +135,15 @@ Coded the job search module, created job search database -- Fahad
 
 
 11/20/2017
-Redesigned home login page, removed flickering affect on form load, finished redesigning government service interface -- Shanine
-Continued working on the job search module -- Fahad
+Redesigned home login page, finished redesigning government service interface -- Shanine
+Continued working on the job & search module -- Fahad
 Presented project to project manager (Sir Patrick) & Evaluated  
+
+11/21/2017
+Redesigned the buttons, interface -- Shanine
+Coded zoom in fucntion to map -- Marvin
+
+11/22/2017
+Continued redesigning the module interfaces and buttons -- Shanine
+Removed flickering between forms -- Gil
+Reduced graphics and researched methods of increasing processing speed -- Fahad
