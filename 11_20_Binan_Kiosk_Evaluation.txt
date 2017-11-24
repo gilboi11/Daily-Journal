@@ -1,0 +1,33 @@
+ALL
+(+) all font in all forms should be the same
+(+) idle for about 15-20 minutes, return to homescreen
+(-) remove login
+(+) admin functionalities 
+
+Search
+(-) dropdown in search box
+(-) search button next to search bar
+(-) change Filter font
+(+) use only suggestion buttons
+	*Officer
+	   (-) Change font style
+           (+) Officer picture 
+	*Offices
+	   (+) department Descriptions
+	   (+) adjust spacing between results (e.g. "location :")
+	*Application
+	   (+) connect application results to government services
+
+Map
+(-) remove white textbox surrounding title of each floor
+(+) match title and heading font to other font style in form
+     
+
+Government Services
+(+) swipe selections
+(-) unstretch images
+(+) zoom in picture 
+
+Jobs
+(-) remove filter and dropdown
+(+) add all job category buttons on one page
