@@ -147,3 +147,12 @@ Coded zoom in fucntion to map -- Marvin
 Continued redesigning the module interfaces and buttons -- Shanine
 Removed flickering between forms -- Gil
 Reduced graphics and researched methods of increasing processing speed -- Fahad
+
+11/23/2017
+Removed the back icon on each form, redesigned and refunctioned the language button into a combobox-- Shanine
+Did zoom in function for government services images -- Marvin
+
+11/24/2017
+programmed the idle function of the binan kiosk -- Marvin & Fahad
+coded the time and date -- Shanine
+
